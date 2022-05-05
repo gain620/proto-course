@@ -1,9 +1,9 @@
 # proto-course
 
-[![Lint protobuf](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml/badge.svg)](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml) ![Udemy](.github/badges/udemy.svg)
+Protobuf course 를 들으며 정리한 내용들입니다.
+
+[![Lint protobuf](https://github.com/gain620/proto-course/actions/workflows/lint.yaml/badge.svg)](https://github.com/gain620/proto-course/actions/workflows/lint.yaml)
 
 ## Other Repositories
 
-- [Java](https://github.com/Clement-Jean/proto-java-course)
-- [Go](https://github.com/Clement-Jean/proto-go-course)
-- [Python](https://github.com/Clement-Jean/proto-python-course)
+- [Go](https://github.com/gain620/proto-go-course)
